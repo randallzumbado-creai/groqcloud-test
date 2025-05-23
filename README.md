@@ -64,10 +64,6 @@ El script mostrará:
   - Max tokens: 2048
 - **Prompt**: Problema matemático complejo para evaluar el rendimiento
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios que te gustaría hacer.
-
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
